@@ -1,0 +1,12 @@
+body {
+    margin: 10px 10px;
+}
+figure {
+    width: 100%;
+}
+audio {
+    width: 100%;
+}
+.container-fluid {
+    max-width: 600px;
+}
